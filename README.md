@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/julianchoripan/blog-preview-card)
+- Live Site URL: [Live site](https://julianchoripan.github.io/blog-preview-card/)
 
 ## My process
 
